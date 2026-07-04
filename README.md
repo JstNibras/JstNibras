@@ -52,5 +52,5 @@ A highly responsive homepage replica of the Blinkit platform built to master mod
 ---
 
 ### 📬 Connect With Me
-* **LinkedIn:** [linkedin.com/in/ahmad-nibras-ct]([https://www.linkedin.com/in/ahmad-nibras-ct](https://www.linkedin.com/in/ahmad-nibras-ct-7214442ab/))
+* **LinkedIn:** [linkedin.com/in/ahmad-nibras-ct](https://www.linkedin.com/in/ahmad-nibras-ct-7214442ab/))
 * **Portfolio / Live Domain:** [https://nibrasct.in](https://nibrasct.in)
