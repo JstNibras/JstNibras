@@ -44,9 +44,9 @@ A highly responsive homepage replica of the Blinkit platform built to master mod
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JstNibras&show_icons=true&theme=radical&hide_border=true" alt="JstNibras's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstNibras&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JstNibras&show_icons=true&theme=dark&hide_border=true" alt="JstNibras's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstNibras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
