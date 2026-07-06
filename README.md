@@ -1,5 +1,7 @@
 # Hi there, I'm Ahmad Nibras 👋
 
+<img src="https://komarev.com/ghpvc/?username=Sinan-kp10&style=for-the-badge&color=blueviolet" />
+
 ### 🚀 Full-Stack Web Developer | MERN Stack & AWS
 
 I am a software developer focused on engineering scalable backend systems, responsive user interfaces, and deploying full-stack web applications to the cloud. I learn by building real-world systems—from configuring database architectures to managing end-to-end AWS deployments.
