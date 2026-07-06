@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad Nibras 👋              <img src="https://komarev.com/ghpvc/?username=Sinan-kp10&style=for-the-badge&color=blueviolet" />
+# Hi there, I'm Ahmad Nibras 👋        
 
 ### 🚀 Full-Stack Web Developer | MERN Stack & AWS
 
